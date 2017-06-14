@@ -1,0 +1,19 @@
+{
+  "name": "tryme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dieulanho/tryme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dieulanho/tryme/issues"
+  },
+  "homepage": "https://github.com/dieulanho/tryme#readme"
+}
